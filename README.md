@@ -1,10 +1,10 @@
 <h1 align="left">Hi 👋, I'm Yong Quan</h1>
 
-<span align="left">I am a passionate individual that loves coding and mathematics. Aspiring to have a role that is either SWE or ML/AI related. I enjoy exploring solving problems, and during my free time, I love to play instruments and exercise regularly.</span>
+<span align="left">I am a passionate individual that loves coding and mathematics. Aspiring to be a SWE or ML/AI Engineer. I enjoy solving problems, and during my free time, I love to play the guitar and exercise regularly.</span>
 
 - 🔭 I’m currently working on **Full-Stack Development (Church Operations)**
 
-- 🌱 I’m currently learning **Large Language Models, Cloud Infrastructure (AWS & Terraform)**
+- 🌱 I’m currently learning **Large Language Models, Generative AI ,Cloud Infrastructure (AWS & Terraform)**
 
 - 📫 How to reach me: **tanyongquanm@gmail.com**
 
