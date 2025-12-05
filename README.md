@@ -7,9 +7,6 @@
   </a> 
 </p>
 
-- 🌱 I'm currently preparing to take **AWS Data Engineer - Associate**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
