@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yong Quan</h1>
 <h3 align="center">Year 4 NUS Computing Student passionate in Software Engineering & Data Engineering!</h3>
 
-<p align="left" style="padding: 20px 0;"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yongggquannn&margin-w=15&margin-h=15" alt="yongggquannn" />
-  </a> 
-</p>
-
 <p align="left">
 </p>
 
