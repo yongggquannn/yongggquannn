@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Yong Quan 👋</h1>
-<h3 align="center">Final-year NUS Computer Science student, Software & Data Engineering</h3>
+<h3 align="center">Final year NUS Computing student, Software & Data Engineering</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/tan-yong-quan-358312279/"><img
@@ -16,9 +16,8 @@ src="https://img.shields.io/github/followers/yongggquannn?label=Follow&style=for
 
 ### 👨‍💻 About Me
 
-- 🎓 Year 4 Computer Science student at **National University of Singapore**
-- 🛠️ I build production systems end-to-end — backend APIs, data pipelines, and cloud infrastructure
+- 🎓 Year 4 Computing student at **National University of Singapore**
+- 🛠️ I build production systems end-to-end from backend APIs, data pipelines, to cloud infrastructure
 - 🌱 Currently deepening my skills in **distributed systems**, **data engineering**, and **AI/LLM
 applications**
-- 💬 Ask me about **Go, Python, TypeScript, AWS, Docker, PostgreSQL**
 - 📫 Reach me at **tanyongquanm@gmail.com**
